@@ -1,6 +1,6 @@
 {
-  "name": "bootstrap",
-  "description": "The most popular front-end framework for developing responsive, mobile first projects on the web.",
+  "name": "bootstrap-fedora",
+  "description": "A fedora-styled fork of bootstrap.",
   "version": "3.3.4",
   "keywords": [
     "css",
@@ -12,7 +12,7 @@
     "framework",
     "web"
   ],
-  "homepage": "http://getbootstrap.com",
+  "homepage": "https://github.com/ralphbean/bootstrap-fedora",
   "main": [
     "less/bootstrap.less",
     "dist/css/bootstrap.css",
